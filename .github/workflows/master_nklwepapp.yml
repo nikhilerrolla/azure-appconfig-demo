@@ -61,4 +61,4 @@ jobs:
           app-name: 'nklwepapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C1952A06A7F4C8A97AE7DDE330B08AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE8D6C0403834A308CAB3CA6B4566B76 }}
